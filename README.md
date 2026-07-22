@@ -1,6 +1,6 @@
 <!-- 🌐 Dynamic Cybersecurity GitHub Profile README for Anish G Prabhu -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Anish+G+Prabhu;Backend+Developer+%7C+Security+%7C+DevOps;REST+APIs+%7C+Linux+%7C+Docker+%7C+Kubernetes" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hi,+I'm+Anish+G+Prabhu;Backend+Developer+%7C+Security+%7C+DevOps;REST+APIs+%7C+Linux+%7C+Docker+%7C+Kubernetes" alt="Typing Animation" />
 </h1>
 
 ---
