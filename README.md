@@ -2,10 +2,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Anish+G+Prabhu;Backend+Developer+%7C+Security+%7C+DevOps;REST+APIs+%7C+Linux+%7C+Docker+%7C+Kubernetes" alt="Typing Animation" />
 </h1>
+
 ---
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/d7a8e908-c92d-4b03-901e-efd6008080cf.gif" width="100%" alt="pixel-art-readme-gifs"></p>
+
 ---
+
 ###  About Me
 -  Backend Developer focused on building secure, scalable REST APIs
 -  Experience with Python, Django, DRF, and FastAPI
@@ -15,7 +19,9 @@
 -  Automation & tooling: Bash scripting, Git, Postman
 -  Currently learning cloud platforms, system design, and backend scalability
 -  Contact: anishprabhu783@gmail.com
+
 ---
+
 ###  Tech Stack
  Web Development
 <p align="center">
@@ -37,7 +43,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
+
 ---
+
 ###  Contribution Graph
 <p align="center">
   <picture>
@@ -46,7 +54,9 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashpb07/ashpb07/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ---
+
 ###  Connect with Me
 <p align="center">
   <a href="mailto:anishprabhu221@gmail.com">
