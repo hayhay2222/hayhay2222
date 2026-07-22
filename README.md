@@ -4,8 +4,7 @@
 </h1>
 
 ---
-
-<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/545c0fb4-d5be-4bc6-974d-4e3ab715857b.gif" width="100%" alt="pixel-art-readme-gifs">
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/e037ecf3-3399-4554-99c2-aeff5c95e52a.gif" width="100%" alt="pixel-art-readme-gifs">
 ---
 
 ###  About Me
