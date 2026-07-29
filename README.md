@@ -1,8 +1,5 @@
 <!-- Dynamic Cybersecurity GitHub Profile README for Anish G Prabhu -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" alt="Wave" />
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Anish+G+Prabhu;Backend+Developer+%7C+Security+%7C+DevOps;REST+APIs+%7C+Linux+%7C+Docker+%7C+Kubernetes" alt="Typing Animation" />
@@ -55,6 +52,9 @@ status: "learning cloud & system design"
 
 <br>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" alt="Wave" />
+</p>
 ## Tech Stack
 
 <table>
