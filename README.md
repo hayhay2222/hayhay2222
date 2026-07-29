@@ -31,19 +31,20 @@
 </td>
 <td width="40%" valign="top">
 
-```yaml
-name: Shreya Shridhara
-role: Cybersecurity Engineering Student
-focus:
-  - Network Security
-  - Ethical Hacking
-  - Secure Software Development
-education: NMAM Institute of Technology, Nitte
-degree: B.E. Computer Science & Engineering (Cyber Security)
-location: India
-contact: shreyashridhar19@gmail.com
-status: "building & securing, one project at a time"
-```
+> **Shreya Shridhara**
+> Cybersecurity Engineering Student
+>
+> **Focus**
+> Network Security · Ethical Hacking · Secure Software Development
+>
+> **Education**
+> NMAM Institute of Technology, Nitte
+> B.E. Computer Science & Engineering (Cyber Security)
+>
+> **Location:** India
+> **Contact:** shreyashridhar19@gmail.com
+>
+> *"building & securing, one project at a time"*
 
 </td>
 </tr>
@@ -57,24 +58,25 @@ status: "building & securing, one project at a time"
 
 ## Tech Stack
 
-<table align="center">
-<tr>
-<td><b>Web Development</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,postgresql,sqlite" /></td>
-</tr>
-<tr>
-<td><b>Cybersecurity</b></td>
-<td><img src="https://skillicons.dev/icons?i=kali,bash,linux" /></td>
-</tr>
-<tr>
-<td><b>Tools & DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,windows" /></td>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=go,python,java,c,js" /></td>
-</tr>
-</table>
+<p align="center">
+  <b>Web Development</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,postgresql,sqlite" />
+</p>
+
+<p align="center">
+  <b>Cybersecurity</b><br>
+  <img src="https://skillicons.dev/icons?i=kali,bash,linux" />
+</p>
+
+<p align="center">
+  <b>Tools & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,windows" />
+</p>
+
+<p align="center">
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=go,python,java,c,js" />
+</p>
 
 <br>
 
