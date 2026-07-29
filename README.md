@@ -57,9 +57,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Stay+Curious+%7C+Stay+Secure+%7C+Stay+Anonymous" />
-</p>
 
 <br>
 
