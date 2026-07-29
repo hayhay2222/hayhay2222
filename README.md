@@ -17,10 +17,37 @@
 
 ## About Me
 
-- Cybersecurity Engineering student, building secure software & exploring network security
-- Full-stack dev with Python, Django, FastAPI
-- Ethical hacking, penetration testing & vulnerability assessment
-- Based in India
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- Cybersecurity Engineering student
+- Full-stack dev: Python, Django, DRF, FastAPI
+- Skills: network security, ethical hacking, pen testing, vulnerability assessment
+- Tools: Wireshark, Nmap, Metasploit
+- Databases: PostgreSQL, SQLite
+- OS & Tooling: Git, GitHub, Docker, Linux, Windows
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Shreya Shridhara
+role: Cybersecurity Engineering Student
+focus:
+  - Network Security
+  - Ethical Hacking
+  - Secure Software Development
+education: NMAM Institute of Technology, Nitte
+degree: B.E. Computer Science & Engineering (Cyber Security)
+location: India
+contact: shreyashridhar19@gmail.com
+status: "building & securing, one project at a time"
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
