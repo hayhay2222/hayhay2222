@@ -58,25 +58,28 @@
 
 ## Tech Stack
 
-<p align="center">
-  <b>Web Development</b><br>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <b>Web Development</b><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,postgresql,sqlite" />
-</p>
-
-<p align="center">
-  <b>Cybersecurity</b><br>
+</td>
+<td align="center" width="50%">
+  <b>Cybersecurity</b><br><br>
   <img src="https://skillicons.dev/icons?i=kali,bash,linux" />
-</p>
-
-<p align="center">
-  <b>Tools & DevOps</b><br>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <b>Tools & DevOps</b><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,windows" />
-</p>
-
-<p align="center">
-  <b>Languages</b><br>
+</td>
+<td align="center" width="50%">
+  <b>Languages</b><br><br>
   <img src="https://skillicons.dev/icons?i=go,python,java,c,js" />
-</p>
+</td>
+</tr>
+</table>
 
 <br>
 
