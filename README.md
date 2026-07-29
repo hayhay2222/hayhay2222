@@ -30,15 +30,10 @@
 <td width="40%" valign="top">
 
 ```yaml
-name: Shreya Shridhara
-role: Cybersecurity Engineering Student
 focus:
   - Network Security
   - Ethical Hacking
   - Secure Software Development
-education: NMAM Institute of Technology, Nitte
-degree: B.E. Computer Science & Engineering (Cyber Security)
-location: India
 contact: shreyashridhar19@gmail.com
 status: "building & securing, one project at a time"
 ```
