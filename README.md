@@ -104,16 +104,4 @@ status: "learning cloud & system design"
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Stay+Curious+%7C+Stay+Secure+%7C+Stay+Anonymous" />
-</p>
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/ashpb07/ashpb07/blob/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashpb07&style=flat-square&color=00D9FF" alt="Profile Views" />
-</p>
