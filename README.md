@@ -82,19 +82,6 @@ status: "learning cloud & system design"
 
 <br>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashpb07&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpb07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashpb07&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
 ## Contribution Graph
 
 <p align="center">
@@ -124,7 +111,7 @@ status: "learning cloud & system design"
 <br>
 
 <p align="center">
-  <img src="https://github.com/ashpb07/ashpb07/blob/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+  <img src="https://github.com/ashpb07/ashpb07/blob/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="400" />
 </p>
 
 <p align="center">
