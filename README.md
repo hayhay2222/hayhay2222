@@ -61,21 +61,21 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-  <b>Web Development</b><br><br>
+  <img src="https://img.shields.io/badge/Web%20Development-1F6FEB?style=for-the-badge" /><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,postgresql,sqlite" />
 </td>
 <td align="center" width="50%">
-  <b>Cybersecurity</b><br><br>
+  <img src="https://img.shields.io/badge/Cybersecurity-DA3633?style=for-the-badge" /><br><br>
   <img src="https://skillicons.dev/icons?i=kali,bash,linux" />
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-  <b>Tools & DevOps</b><br><br>
+  <img src="https://img.shields.io/badge/Tools%20%26%20DevOps-238636?style=for-the-badge" /><br><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,windows" />
 </td>
 <td align="center" width="50%">
-  <b>Languages</b><br><br>
+  <img src="https://img.shields.io/badge/Languages-9E6A03?style=for-the-badge" /><br><br>
   <img src="https://skillicons.dev/icons?i=go,python,java,c,js" />
 </td>
 </tr>
