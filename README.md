@@ -17,38 +17,10 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
-- Experience with Python, Django, DRF, and FastAPI for full-stack development
-- Cybersecurity skills: network security, ethical hacking, penetration testing, vulnerability assessment, and network scanning
-- Tools: Wireshark, Nmap, and Metasploit for threat analysis and vulnerability assessment
-- Databases: PostgreSQL, SQLite
-- OS & Tooling: Git, GitHub, Docker, Linux (Kali, Ubuntu), Windows
-- Currently building cybersecurity tools and expanding practical, real-world security expertise
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-name: Shreya Shridhara
-role: Cybersecurity Engineering Student
-focus:
-  - Network Security
-  - Ethical Hacking
-  - Secure Software Development
-education: NMAM Institute of Technology, Nitte
-degree: B.E. Computer Science & Engineering (Cyber Security)
-location: India
-contact: shreyashridhar19@gmail.com
-status: "building & securing, one project at a time"
-```
-
-</td>
-</tr>
-</table>
+- Cybersecurity Engineering student, building secure software & exploring network security
+- Full-stack dev with Python, Django, FastAPI
+- Ethical hacking, penetration testing & vulnerability assessment
+- Based in India
 
 <br>
 
@@ -76,37 +48,6 @@ status: "building & securing, one project at a time"
 <td><img src="https://skillicons.dev/icons?i=go,python,java,c,js" /></td>
 </tr>
 </table>
-
-<br>
-
-## Featured Projects
-
-**🔵 Blog Application** — `Django` `DRF` `PostgreSQL`
-- Built a full-stack blog platform with user authentication and CRUD operations for posts
-- Developed REST APIs using Django REST Framework for posts and comments
-- Integrated PostgreSQL for data storage and management
-
-**🛡️ Bifrost** — `Go`
-- Building a high-performance, Nmap-inspired network scanner from scratch to learn networking and systems programming
-- Implementing target parsing, host discovery, concurrent TCP port scanning, service detection, and banner grabbing
-- Developing a production-ready CLI tool with modular architecture, efficient concurrency, and comprehensive scan reporting
-
-<br>
-
-## Experience
-
-- **Joint Secretary — PROTON** *(2025–Present)*: Planning and organizing cybersecurity workshops, events, and club initiatives to provide hands-on learning opportunities
-- **Intern — Thaniya Technologies** *(Jul 2025–Aug 2025)*: Completed a cybersecurity internship gaining hands-on experience in network security, threat analysis, and vulnerability assessment
-- **Intern — NMAMIT** *(Aug 2024–May 2025)*: Conducted a survey on college students' spending habits to identify trends and actionable insights for student-focused financial planning
-
-<br>
-
-## Certifications & Achievements
-
-- 🏅 AINNOVATION 2025: Applied AI Learning Challenge
-- 🏅 AINNOVATION 2025: Microsoft AI Learning Challenge
-- 🏅 AINNOVATION 2025: Microsoft Azure Learning Challenge
-- 🏅 Hedera Hashgraph Certified — Hedera Network Fundamentals
 
 <br>
 
