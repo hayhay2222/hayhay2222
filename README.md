@@ -33,6 +33,7 @@
 - OS & Tooling: Git, GitHub, Docker, Linux (Kali, Ubuntu), Windows
 - Currently building cybersecurity tools and expanding practical, real-world security expertise
 
+</td>
 ```yaml
 name: Shreya Shridhara
 role: Cybersecurity Engineering Student
@@ -46,7 +47,6 @@ location: India
 contact: shreyashridhar19@gmail.com
 status: "building & securing, one project at a time"
 ```
-</td>
 </tr>
 </table>
 
