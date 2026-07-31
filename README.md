@@ -61,7 +61,6 @@ status: "building & securing, one project at a time"
   <img src="https://skillicons.dev/icons?i=html,css,js,react,django,fastapi,postgresql,sqlite" />
 </p>
 
-<p align="center">•••</p>
 
 <p align="center">
   <b>Cybersecurity</b>
@@ -69,7 +68,6 @@ status: "building & securing, one project at a time"
   <img src="https://skillicons.dev/icons?i=kali,bash,linux" />
 </p>
 
-<p align="center">•••</p>
 
 <p align="center">
   <b>Tools & DevOps</b>
@@ -77,7 +75,6 @@ status: "building & securing, one project at a time"
   <img src="https://skillicons.dev/icons?i=git,github,docker,windows" />
 </p>
 
-<p align="center">•••</p>
 
 <p align="center">
   <b>Languages</b>
