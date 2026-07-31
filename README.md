@@ -37,10 +37,9 @@ focus:
   - Network Security
   - Ethical Hacking
   - Secure Software Development
-education: NMAM Institute of Technology, Nitte
-degree: B.E. Computer Science & Engineering (Cyber Security)
-location: India
-contact: shreyashridhar19@gmail.com
+projects:
+  - Blog Application (Django, DRF, PostgreSQL)
+  - Bifrost - Network Scanner (Go)
 status: "building & securing, one project at a time"
 ```
 
