@@ -19,13 +19,15 @@
 
 <table>
 <tr>
-<table> <tr> <td width="60%" valign="top">
-Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
-Full-stack development with Python, Django, DRF, and FastAPI
-Fluent in building and consuming REST APIs
-Capable of dockerizing applications and managing containers
-Built applications using Go
+<td width="60%" valign="top">
 
+- Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
+- Full-stack development with Python, Django, DRF, and FastAPI
+- Fluent in building and consuming REST APIs
+- Capable of dockerizing applications and managing containers
+- Built applications using Go
+
+</td>
 <td width="40%" valign="top">
 
 ```yaml
@@ -35,7 +37,10 @@ focus:
   - Network Security
   - Ethical Hacking
   - Secure Software Development
-
+education: NMAM Institute of Technology, Nitte
+degree: B.E. Computer Science & Engineering (Cyber Security)
+location: India
+contact: shreyashridhar19@gmail.com
 status: "building & securing, one project at a time"
 ```
 
