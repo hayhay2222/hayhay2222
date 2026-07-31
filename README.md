@@ -19,17 +19,13 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<table> <tr> <td width="60%" valign="top">
+Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
+Full-stack development with Python, Django, DRF, and FastAPI
+Fluent in building and consuming REST APIs
+Capable of dockerizing applications and managing containers
+Built applications using Go
 
-- Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
-- Experience with Python, Django, DRF, and FastAPI for full-stack development
-- Cybersecurity skills: network security, ethical hacking, penetration testing, vulnerability assessment, and network scanning
-- Tools: Wireshark, Nmap, and Metasploit for threat analysis and vulnerability assessment
-- Databases: PostgreSQL, SQLite
-- OS & Tooling: Git, GitHub, Docker, Linux (Kali, Ubuntu), Windows
-- Currently building cybersecurity tools and expanding practical, real-world security expertise
-
-</td>
 <td width="40%" valign="top">
 
 ```yaml
