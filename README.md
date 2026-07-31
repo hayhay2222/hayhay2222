@@ -21,6 +21,18 @@
 <tr>
 <td width="40%" valign="top">
 
+
+</td>
+<td width="60%" valign="top">
+
+- Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
+- Experience with Python, Django, DRF, and FastAPI for full-stack development
+- Cybersecurity skills: network security, ethical hacking, penetration testing, vulnerability assessment, and network scanning
+- Tools: Wireshark, Nmap, and Metasploit for threat analysis and vulnerability assessment
+- Databases: PostgreSQL, SQLite
+- OS & Tooling: Git, GitHub, Docker, Linux (Kali, Ubuntu), Windows
+- Currently building cybersecurity tools and expanding practical, real-world security expertise
+
 ```yaml
 name: Shreya Shridhara
 role: Cybersecurity Engineering Student
@@ -34,18 +46,6 @@ location: India
 contact: shreyashridhar19@gmail.com
 status: "building & securing, one project at a time"
 ```
-
-</td>
-<td width="60%" valign="top">
-
-- Cybersecurity Engineering student with hands-on experience in network security, secure software development, and systems programming
-- Experience with Python, Django, DRF, and FastAPI for full-stack development
-- Cybersecurity skills: network security, ethical hacking, penetration testing, vulnerability assessment, and network scanning
-- Tools: Wireshark, Nmap, and Metasploit for threat analysis and vulnerability assessment
-- Databases: PostgreSQL, SQLite
-- OS & Tooling: Git, GitHub, Docker, Linux (Kali, Ubuntu), Windows
-- Currently building cybersecurity tools and expanding practical, real-world security expertise
-
 </td>
 </tr>
 </table>
